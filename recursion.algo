@@ -1,0 +1,7 @@
+FUNCTION isPal(str) : BOOLEAN
+VAR
+   n= str.lenght;
+BEGIN
+ if (n == 0)
+    RETURN true ;
+END
